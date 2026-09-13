@@ -9,3 +9,4 @@
 ## [2026-09-13] COMMIT | Initial commit: bootstrap script, AGENTS.md, .gitignore, seeded knowledge vault
 ## [2026-09-13] RELEASE | Published to github.com/jergas/mnemosyne (public); branch renamed master → main to match GitHub's default
 ## [2026-09-13] DOCS | Added README.md (project overview, quick start, flags table, per-client notes, wiki workflow)
+## [2026-09-13] LICENSE | Added AGPL-3.0-or-later (canonical gnu.org text + explicit or-later notice, SPDX: AGPL-3.0-or-later); copyright 2026 Jergas Apwith

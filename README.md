@@ -95,3 +95,8 @@ the wiki on demand. The cross-agent session flow lives in
 [.memory/HANDOFF.md](.memory/HANDOFF.md).
 
 The script lints clean (`bash -n` + shellcheck 0.11.0).
+
+## License
+
+Licensed under the [GNU Affero General Public License, version 3 or later](LICENSE)
+(SPDX: `AGPL-3.0-or-later`). Copyright (C) 2026 Jergas Apwith.
