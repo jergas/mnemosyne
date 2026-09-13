@@ -8,3 +8,4 @@
 ## [2026-09-12] TOOLING | Installed shellcheck 0.11.0 via pacman (scoped NOPASSWD sudoers); init-memory-system.sh lints clean; interrupt-bridge script SC1090 silenced with a directive
 ## [2026-09-13] COMMIT | Initial commit: bootstrap script, AGENTS.md, .gitignore, seeded knowledge vault
 ## [2026-09-13] RELEASE | Published to github.com/jergas/mnemosyne (public); branch renamed master → main to match GitHub's default
+## [2026-09-13] DOCS | Added README.md (project overview, quick start, flags table, per-client notes, wiki workflow)
